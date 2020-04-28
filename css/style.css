@@ -2,17 +2,18 @@
 body {
     font-size:22px;
 }
-header{
+main-header{
 	justify-content: center;
 }
 .main-header{
-	color: darkgreen;
+	color: lightgreen;
 }
 
 .inhoud{
     color: darkred;
 }
-footer{
+.gegevens{
+	color: pink;
 	justify-content: center;
 	align-items: flex-end;
 }
