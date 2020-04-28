@@ -2,7 +2,7 @@
 body {
     font-size:22px;
 }
-.main-header{
+header{
 	justify-content: center;
 }
 .main-header{
@@ -12,7 +12,7 @@ body {
 .inhoud{
     color: darkred;
 }
-.gegevens{
+footer{
 	justify-content: center;
 	align-items: flex-end;
 }
