@@ -2,6 +2,17 @@
 body {
     font-size:22px;
 }
+.main-header{
+	justify-content: center;
+}
+.main-header{
+	color: darkgreen;
+}
+
 .inhoud{
     color: darkred;
+}
+.gegevens{
+	justify-content: center;
+	align-items: flex-end;
 }
