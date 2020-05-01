@@ -151,6 +151,8 @@ a{
 section{
 	align-items: center;
 	padding: 25px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 .sectionBox{
 	width: 800px;
@@ -244,7 +246,8 @@ footer{
 	border-bottom: 2px solid goldenrod;
 }
 .footerBox{
-	padding-left: 50px;
+	padding-left: 75px;
+	padding-right: 25px;
 	width: 800px;
 	height: 60px;
 	margin: auto;
