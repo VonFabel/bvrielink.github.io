@@ -112,11 +112,14 @@ h2{
 	position: relative;
 	top: 40px;
 }
+	.icon1 a{
+		padding: 5% 5%;
+	}
+
 /*URL icons kleur en opmaak.*/
 a{
 	color: goldenrod;
 	font-size: 24px;
-	padding: 10px 10px;
 }
 /*_______________________________*/
 
@@ -172,6 +175,7 @@ section{
 
 .fa-github{
 	color: goldenrod;
+	padding-left: 5px;
 }
 
 .job{
@@ -269,5 +273,8 @@ footer{
 	position: absolute;
 	bottom: 0;
 	right: 0;
-	/*padding-right: 10px;*/
 }
+	.icon2 a{
+		padding-right: 10px;
+		padding-bottom: 9.75px;
+	}
