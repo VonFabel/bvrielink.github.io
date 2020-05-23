@@ -160,12 +160,15 @@ section{
 .description{
 	/*hori, verti, blur, spread, rgba*/
 	box-shadow: 2px 2px 2px 0px rgba(184,134,11,0.75);
-	text-align: center;
+	text-align: left;
 	margin: 20px;
 	margin-bottom: 50px;
 	padding: 5px;
 	padding-top: 10px;
 }
+	.description h2{
+		text-align: center;
+	}
 
 .fa-github{
 	color: goldenrod;
